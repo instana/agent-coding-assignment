@@ -10,10 +10,12 @@ during the pairing session.
 
 The following requirements need to be met (installed) for the project to compile and run tests:
 
-- Java 8+
+- Java 8 - 11
 - Maven 3+
 - Docker (Please see the TestContainers [Docker Requirements](https://www.testcontainers.org/supported_docker_environment/) )
 - Any IDE of choice
+
+With these requirements fulfilled, the project should compile and at least one of the integration tests should be "green".
 
 
 ## Building & Running Tests
